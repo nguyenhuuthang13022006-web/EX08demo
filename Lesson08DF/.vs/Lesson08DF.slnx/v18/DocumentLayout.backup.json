@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Lesson08DF_no_Tvc\\Lesson08DF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA88010-5372-C3E9-AEA5-C026E6E1E45D}|Lesson08DF\\Lesson08DF.csproj|c:\\users\\admin\\downloads\\lesson08df_no_tvc\\lesson08df\\lesson08df\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA88010-5372-C3E9-AEA5-C026E6E1E45D}|Lesson08DF\\Lesson08DF.csproj|solutionrelative:lesson08df\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Lesson08DF_no_Tvc\\Lesson08DF\\Lesson08DF\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson08DF\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Lesson08DF_no_Tvc\\Lesson08DF\\Lesson08DF\\Program.cs",
+              "RelativeToolTip": "Lesson08DF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T14:30:52.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
